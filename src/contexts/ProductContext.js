@@ -1,4 +1,4 @@
 import React, { createContext } from 'react';
 
-export const ProductContext = useContext();
+export const ProductContext = createContext();
 
